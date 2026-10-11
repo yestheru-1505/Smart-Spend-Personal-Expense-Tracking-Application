@@ -1,0 +1,226 @@
+%PDF-1.4
+%SmartSpend
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3928 >>
+stream
+0.340 0.290 0.780 rg
+0 652 612 140 re f
+0.880 0.870 1.000 rg
+BT /F2 11 Tf 1 0 0 1 48 748 Tm (SMARTSPEND) Tj ET
+1.000 1.000 1.000 rg
+BT /F2 28 Tf 1 0 0 1 48 707 Tm (Make every rupee count.) Tj ET
+0.910 0.900 1.000 rg
+BT /F2 9 Tf 1 0 0 1 48 680 Tm (PROJECT PURPOSE  |  STUDENT PERSONAL FINANCE) Tj ET
+0.100 0.140 0.240 rg
+BT /F2 16 Tf 1 0 0 1 48 625 Tm (A simple money companion for students) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 10 Tf 1 0 0 1 48 603 Tm (SmartSpend is a browser-based personal finance tracker that helps students record income and) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 10 Tf 1 0 0 1 48 588 Tm (expenses, understand spending habits, plan a monthly budget, and keep more control over their money.) Tj ET
+0.950 0.950 0.990 rg
+48 442 248 93 re f
+0.340 0.290 0.780 rg
+BT /F2 9 Tf 1 0 0 1 63 513 Tm (THE PROBLEM) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 63 493 Tm (Small daily purchases are easy to forget.) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 63 480 Tm (Without a clear record, students can lose track) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 63 467 Tm (of where their pocket money goes and run short) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 63 454 Tm (before month-end.) Tj ET
+0.920 0.970 0.950 rg
+310 442 254 93 re f
+0.080 0.550 0.420 rg
+BT /F2 9 Tf 1 0 0 1 325 513 Tm (THE SOLUTION) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 325 493 Tm (One clear dashboard brings transactions,) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 325 480 Tm (balances, category charts, and budget warnings) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 325 467 Tm (together, making everyday money decisions) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 325 454 Tm (easier.) Tj ET
+0.340 0.290 0.780 rg
+BT /F2 9 Tf 1 0 0 1 48 415 Tm (WHO IT IS FOR) Tj ET
+0.880 0.890 0.930 rg
+48 408 m 564 408 l 0.7 w S
+0.100 0.140 0.240 rg
+BT /F1 9.5 Tf 1 0 0 1 48 394 Tm (Primarily college and university students managing pocket money, part-time income, travel, meals,) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9.5 Tf 1 0 0 1 48 380 Tm (shopping, and study costs. The same tool can also help anyone who wants lightweight personal expense) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9.5 Tf 1 0 0 1 48 366 Tm (tracking.) Tj ET
+0.340 0.290 0.780 rg
+BT /F2 9 Tf 1 0 0 1 48 343 Tm (WHAT SMARTSPEND HELPS USERS DO) Tj ET
+0.880 0.890 0.930 rg
+48 336 m 564 336 l 0.7 w S
+0.100 0.140 0.240 rg
+BT /F2 9.5 Tf 1 0 0 1 52 320 Tm (01  See the full picture) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 170 320 Tm (Compare monthly income, expenses, available balance, and savings rate.) Tj ET
+0.100 0.140 0.240 rg
+BT /F2 9.5 Tf 1 0 0 1 52 303 Tm (02  Keep useful records) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 170 303 Tm (Add, search, filter, edit, and remove categorized transactions.) Tj ET
+0.100 0.140 0.240 rg
+BT /F2 9.5 Tf 1 0 0 1 52 286 Tm (03  Make patterns visible) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 170 286 Tm (Review category spending and compare income with expenses over time.) Tj ET
+0.100 0.140 0.240 rg
+BT /F2 9.5 Tf 1 0 0 1 52 269 Tm (04  Stay within a plan) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 170 269 Tm (Set a monthly expense limit and get a warning as spending approaches it.) Tj ET
+0.100 0.140 0.240 rg
+BT /F2 9.5 Tf 1 0 0 1 52 252 Tm (05  Take data with you) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 170 252 Tm (Keep records in the browser and export transactions as a CSV file.) Tj ET
+0.960 0.960 0.990 rg
+48 75 516 62 re f
+0.340 0.290 0.780 rg
+BT /F2 8.5 Tf 1 0 0 1 63 116 Tm (THE OUTCOME) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 10 Tf 1 0 0 1 63 98 Tm (Students can answer three practical questions at a glance: How much came in? Where did it go?) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 10 Tf 1 0 0 1 63 84 Tm (How much can I still spend?) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 8 Tf 1 0 0 1 48 48 Tm (SMARTSPEND  |  PROJECT PURPOSE) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 8 Tf 1 0 0 1 527 48 Tm (01) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 4568 >>
+stream
+0.340 0.290 0.780 rg
+BT /F2 10 Tf 1 0 0 1 48 746 Tm (HOW THE PROJECT WORKS) Tj ET
+0.100 0.140 0.240 rg
+BT /F2 21 Tf 1 0 0 1 48 715 Tm (A focused, beginner-friendly finance tool) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 10 Tf 1 0 0 1 48 691 Tm (The first version prioritizes fast entry, readable summaries, and practical feedback. No bank) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 10 Tf 1 0 0 1 48 676 Tm (connection or account is required.) Tj ET
+0.340 0.290 0.780 rg
+BT /F2 9 Tf 1 0 0 1 48 647 Tm (EXAMPLE STUDENT MONTH) Tj ET
+0.880 0.890 0.930 rg
+48 640 m 564 640 l 0.7 w S
+0.100 0.140 0.240 rg
+BT /F1 9.5 Tf 1 0 0 1 48 626 Tm (A student records INR 5,000 in pocket money and monthly expenses of INR 1,500 for food, INR 800 for) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9.5 Tf 1 0 0 1 48 612 Tm (transport, INR 700 for shopping, and INR 500 for other needs.) Tj ET
+0.950 0.950 0.990 rg
+48 529 516 52 re f
+0.400 0.440 0.530 rg
+BT /F2 8 Tf 1 0 0 1 63 558 Tm (INCOME) Tj ET
+0.080 0.550 0.420 rg
+BT /F2 13 Tf 1 0 0 1 63 540 Tm (INR 5,000) Tj ET
+0.400 0.440 0.530 rg
+BT /F2 8 Tf 1 0 0 1 222 558 Tm (EXPENSES) Tj ET
+0.340 0.290 0.780 rg
+BT /F2 13 Tf 1 0 0 1 222 540 Tm (INR 3,500) Tj ET
+0.400 0.440 0.530 rg
+BT /F2 8 Tf 1 0 0 1 392 558 Tm (REMAINING) Tj ET
+0.100 0.140 0.240 rg
+BT /F2 13 Tf 1 0 0 1 392 540 Tm (INR 1,500) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 48 510 Tm (The dashboard calculates balance as income minus expenses. It also shows that 70% of the starting amount has) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 48 497 Tm (been spent.) Tj ET
+0.340 0.290 0.780 rg
+BT /F2 9 Tf 1 0 0 1 48 466 Tm (CORE FEATURES) Tj ET
+0.880 0.890 0.930 rg
+48 459 m 564 459 l 0.7 w S
+0.100 0.140 0.240 rg
+BT /F2 9.5 Tf 1 0 0 1 52 445 Tm (Dashboard) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 160 445 Tm (Monthly income, spending, balance, and savings rate.) Tj ET
+0.100 0.140 0.240 rg
+BT /F2 9.5 Tf 1 0 0 1 52 429 Tm (Transactions) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 160 429 Tm (Income or expense, amount, category, date, and description; searchable history with) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 160 417 Tm (editing and deletion.) Tj ET
+0.100 0.140 0.240 rg
+BT /F2 9.5 Tf 1 0 0 1 52 401 Tm (Charts) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 160 401 Tm (Category-wise expense breakdown and recent monthly income-versus-expense trends.) Tj ET
+0.100 0.140 0.240 rg
+BT /F2 9.5 Tf 1 0 0 1 52 385 Tm (Budget manager) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 160 385 Tm (A user-set monthly expense limit with progress and near-limit / over-limit alerts.) Tj ET
+0.100 0.140 0.240 rg
+BT /F2 9.5 Tf 1 0 0 1 52 369 Tm (Storage and export) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 9 Tf 1 0 0 1 160 369 Tm (Browser local storage plus CSV download for a portable transaction report.) Tj ET
+0.340 0.290 0.780 rg
+BT /F2 9 Tf 1 0 0 1 48 346 Tm (TECHNOLOGY) Tj ET
+0.880 0.890 0.930 rg
+48 339 m 564 339 l 0.7 w S
+0.100 0.140 0.240 rg
+BT /F1 9.5 Tf 1 0 0 1 48 325 Tm (HTML and CSS provide the responsive interface; JavaScript handles transactions, calculations, filtering,) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9.5 Tf 1 0 0 1 48 311 Tm (validation, and browser storage; Chart.js renders interactive visualizations; CSV provides a simple export) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9.5 Tf 1 0 0 1 48 297 Tm (format.) Tj ET
+0.340 0.290 0.780 rg
+BT /F2 9 Tf 1 0 0 1 48 278 Tm (HOW SUCCESS IS MEASURED) Tj ET
+0.880 0.890 0.930 rg
+48 271 m 564 271 l 0.7 w S
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 53 257 Tm (- Income, expenses, and balance match the recorded transactions.) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 53 240 Tm (- Budget warnings appear at the intended thresholds.) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 53 223 Tm (- Records remain after a refresh in the same browser.) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 53 206 Tm (- Users can identify their highest-spending categories and export a CSV.) Tj ET
+0.960 0.960 0.990 rg
+48 91 516 76 re f
+0.340 0.290 0.780 rg
+BT /F2 8.5 Tf 1 0 0 1 63 146 Tm (SCOPE NOTE) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 63 128 Tm (This first version stores data only in the browser on the current device. It does not sync across) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 63 115 Tm (devices, provide cloud backup, or connect to bank accounts. Users should export important records) Tj ET
+0.100 0.140 0.240 rg
+BT /F1 9 Tf 1 0 0 1 63 102 Tm (regularly.) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 8 Tf 1 0 0 1 48 48 Tm (SMARTSPEND  |  PROJECT PURPOSE) Tj ET
+0.400 0.440 0.530 rg
+BT /F1 8 Tf 1 0 0 1 527 48 Tm (02) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000021 00000 n 
+0000000070 00000 n 
+0000000133 00000 n 
+0000000230 00000 n 
+0000000332 00000 n 
+0000000468 00000 n 
+0000004448 00000 n 
+0000004584 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+9204
+%%EOF
